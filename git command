@@ -1,0 +1,21 @@
+git add.filename/*
+git commit "message"
+git push
+git pull
+
+
+
+git clone url....
+
+
+codept@aiktc10 ~ $ git clone https://github.com/coolkaam/learning.git
+Cloning into 'learning'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+codept@aiktc10 ~ $ cd Documents/
+codept@aiktc10 ~/Documents $ mkdir kalam
+codept@aiktc10 ~/Documents $ cd kalam/
+codept@aiktc10 ~/Documents/kalam $ git init
+Initialized empty Git repository in /home/codept/Documents/kalam/.git/
+codept@aiktc10 ~/Documents/kalam $ 
+
